@@ -4,7 +4,7 @@ import mysql.connector as mc
 conn = mc.connect(
     host="localhost",
     user="root",
-    password="parth@123",
+    password="root123",
     database="NoteApp"
 )
 cursor = conn.cursor()
