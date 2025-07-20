@@ -32,7 +32,7 @@ A lightweight, terminal-based note taking application built with **Python** and 
 
 > Curious how NoteNest works? Check out the full walkthrough with screenshots in the document below:
 
-📄 **[View Complete Screenshot Walkthrough](https://1drv.ms/w/c/0f846526dc5ff851/EbhKA0Nwp8BBrP938HAU700B2r6dY6pWEKiAoBiLNG4Scg?e=AJdMBN)**  
+📄 **[View Complete Screenshot Walkthrough]([https://1drv.ms/w/c/0f846526dc5ff851/EbhKA0Nwp8BBrP938HAU700B2r6dY6pWEKiAoBiLNG4Scg?e=AJdMBN](https://drive.google.com/file/d/1xnHh4hzRkpDTuEKPuoo_ugUyUVyO3Xoy/view?usp=sharing))**  
 *(Includes main menu, add/view/edit/delete notes, and full CLI flow)*
 
 > The document showcases every feature of the app step by step ideal for visual learners or quick demos.
