@@ -27,7 +27,7 @@ A lightweight, terminal-based note taking application built with **Python** and 
 | Interface  | Command Line (CLI)       |
 
 ---
-
+<!--
 ## 📸 Preview
 
 > Curious how NoteNest works? Check out the full walkthrough with screenshots in the document below:
@@ -36,7 +36,7 @@ A lightweight, terminal-based note taking application built with **Python** and 
 *(Includes main menu, add/view/edit/delete notes, and full CLI flow)*
 
 > The document showcases every feature of the app step by step ideal for visual learners or quick demos.
-
+-->
 ---
 
 ## 🧱 Database Schema
