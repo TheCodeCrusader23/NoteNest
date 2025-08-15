@@ -79,7 +79,7 @@ def main():
         elif choice == "6":
             break
         else:
-            print("❗ Invalid choice. Try again.\n")
+            print("❗Invalid choice. Try again.\n")
 
     # Close DB connection on exit
     cursor.close()
